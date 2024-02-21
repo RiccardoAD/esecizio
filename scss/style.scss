@@ -1,0 +1,11 @@
+@import "./partials/reset";
+@import "./partials/button";
+@import "./partials/containers";
+@import "./partials/spazature";
+@import "./partials/_mixims.scss";
+@import "./partials/font";
+@import "./partials/colori";
+@import "./partials/_animazioni";
+
+
+// sass --watch scss/style.scss:css/style.css -w da ridare il watchal style.scss o npm run test
